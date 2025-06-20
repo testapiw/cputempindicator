@@ -1,5 +1,7 @@
 # CPU Core Temp Indicator (GNOME Shell Extension)
 
+![CPU Core Temp Indicator Screenshot](images/screenshot.png)
+
 CPU Core Temp Indicator is a lightweight GNOME Shell extension that displays per-core CPU temperatures in the top panel. Temperature values are color-coded based on configurable thresholds: green for normal, white for warning, and red for critical.
 
 ## Features
