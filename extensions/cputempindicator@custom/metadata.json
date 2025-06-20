@@ -1,0 +1,7 @@
+{
+  "uuid": "cputempindicator@custom",
+  "name": "CPU Core Temp Indicator",
+  "description": "Lightweight per-core CPU temperature monitor",
+  "version": 1,
+  "shell-version": ["42"]
+}
